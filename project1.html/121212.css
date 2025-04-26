@@ -1,0 +1,16 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.hero-section {
+    background: url('images/hero.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
+
+/* Projects Section */
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
